@@ -1,0 +1,7 @@
+{
+  "nome": "Meu IPTV",
+  "cor": "#3ecf9a",
+  "dns": "http://superlist.lat",
+  "futebol": true,
+  "aviso": { "texto": "", "inicio": "", "fim": "" }
+}
